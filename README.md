@@ -21,7 +21,7 @@ Backend:
   flask 
 
 Dataset:
-  solar_power_generation.csv(Kaggle datasets)
+  solar_power_generation.csv
   
  ## Machine Learning
   - Random Forest Regressor
