@@ -11,13 +11,13 @@ A web application that predicts solar power generation based on real-time weathe
 ## Technologies Used 
 Frontend:
   HTML
-  CSS
-  JavaScript
-  Bootstrap 5 (UI framework)
+  ,CSS
+  ,JavaScript
+  ,Bootstrap 5 (UI framework)
   Chart.js (Data visualization)
   
 Backend:
-  python
+  python,
   flask 
 
 Dataset:
