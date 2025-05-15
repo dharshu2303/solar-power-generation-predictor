@@ -14,7 +14,7 @@ Frontend:
   ,CSS
   ,JavaScript
   ,Bootstrap 5 (UI framework)
-  Chart.js (Data visualization)
+  ,Chart.js (Data visualization)
   
 Backend:
   python,
