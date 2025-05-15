@@ -15,9 +15,11 @@ Frontend:
   JavaScript
   Bootstrap 5 (UI framework)
   Chart.js (Data visualization)
+  
 Backend:
   python
   flask 
+
 Dataset:
   solar_power_generation.csv(Kaggle datasets)
   
