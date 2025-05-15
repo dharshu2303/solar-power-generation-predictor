@@ -156,7 +156,7 @@ def generate_dynamic_tips(weather_data, predicted_power):
 
 # Load the pre-trained model globally - no training required
 model = joblib.load('solar_power_predictor.pkl')
-API_KEY = "4da7918a53fe1fefa5ac72f22f3a7010"
+API_KEY = "your_api_key"
 
 @app.route('/')
 def index():
